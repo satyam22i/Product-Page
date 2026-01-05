@@ -41,10 +41,6 @@ The interface reflects how real-world compliance, procurement, or regulatory-fac
 - **Version History Timeline** visualizing lifecycle transitions  
   *(Draft → Submitted → Published)*
 
-### 🧾 Product Management
-- Add new products via modal
-- Edit existing products
-- Automatic version history generation on updates
 
 ### 💾 Local Persistence
 - Browser **Local Storage** used to simulate backend behavior
